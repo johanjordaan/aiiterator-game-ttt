@@ -59,8 +59,9 @@ acorn@^6.0.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.0.2.tgz#6a459041c320ab17592c6317abbfdf4bbaa98ca4"
   integrity sha512-GXmKIvbrN3TV7aVqAzVFaMW8F8wzVX7voEBRO3bDA64+EX37YSayggRJP5Xig6HYHBkWKpFg9W5gg6orklubhg==
 
-aiiterator-core@../aiiterator-core:
+"aiiterator-core@https://github.com/johanjordaan/aiiterator-core":
   version "1.0.0"
+  resolved "https://github.com/johanjordaan/aiiterator-core#2a8d8a624fdf3825b2b8fd4f07e7d848766f1a75"
   dependencies:
     chalk "^2.4.1"
     clear "^0.1.0"

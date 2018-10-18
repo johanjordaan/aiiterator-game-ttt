@@ -15,7 +15,7 @@
     "supertest": "^3.3.0"
   },
   "dependencies": {
-    "aiiterator-core": "../aiiterator-core",
+    "aiiterator-core": "https://github.com/johanjordaan/aiiterator-core",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
