@@ -61,7 +61,7 @@ acorn@^6.0.1:
 
 "aiiterator-core@https://github.com/johanjordaan/aiiterator-core":
   version "1.0.0"
-  resolved "https://github.com/johanjordaan/aiiterator-core#a47208be6c266332896b41ac6da8a013586d47eb"
+  resolved "https://github.com/johanjordaan/aiiterator-core#ad7db2c94edb796eb3c224b76bed15b90be0fa9e"
   dependencies:
     chalk "^2.4.1"
     clear "^0.1.0"
